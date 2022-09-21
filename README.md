@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm PairZhu</h1>
-<h3 align="center">A student developer from China</h3>
+<h1 align="center">你好 👋, 我是 PairZhu</h1>
+<h3 align="center">来自中国的一名学生开发者</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pairzhu&label=Profile%20views&color=0e75b6&style=flat" alt="pairzhu" /> </p>
 

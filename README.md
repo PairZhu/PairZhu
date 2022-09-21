@@ -1,10 +1,6 @@
 <h1 align="center">你好 👋, 我是 PairZhu</h1>
 <h3 align="center">来自中国的一名学生开发者</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pairzhu&label=Profile%20views&color=0e75b6&style=flat" alt="pairzhu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pairzhu" alt="pairzhu" /></a> </p>
-
 <a href="https://github.com/PairZhu/NjtechScript"><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PairZhu&repo=NjtechScript&locale=cn" /></a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pairzhu&show_icons=true&locale=cn" alt="pairzhu" /></p>

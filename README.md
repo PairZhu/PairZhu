@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pairzhu" alt="pairzhu" /></a> </p>
 
-<a href="https://github.com/PairZhu/NjtechScript"><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PairZhu&repo=NjtechScript&locale=cn&theme=dark" /></a> 
+<a href="https://github.com/PairZhu/NjtechScript"><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PairZhu&repo=NjtechScript&locale=cn" /></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pairzhu&show_icons=true&locale=en" alt="pairzhu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pairzhu&show_icons=true&locale=cn" alt="pairzhu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pairzhu&" alt="pairzhu" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pairzhu&show_icons=true&locale=en&layout=compact" alt="pairzhu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pairzhu&show_icons=true&locale=cn&layout=compact" alt="pairzhu" /></p>
 
 - 🔭 I’m currently study in [Nanjing Tech University](http://www.njtech.edu.cn/)
 

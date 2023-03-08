@@ -2,6 +2,7 @@
 <h3 align="center">来自中国的一名学生开发者</h3>
 
 <a href="https://github.com/PairZhu/NjtechScript"><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PairZhu&repo=NjtechScript&locale=cn" /></a> 
+<a href="https://github.com/PairZhu/GPT-QQRobot"><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PairZhu&repo=GPT-QQRobot&locale=cn" /></a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pairzhu&show_icons=true&locale=cn" alt="pairzhu" /></p>
 

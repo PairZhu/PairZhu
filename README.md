@@ -7,7 +7,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pairzhu&show_icons=true&locale=cn&layout=compact" alt="pairzhu" /></p>
 
-- 🔭 I’m currently study in [Nanjing Tech University](http://www.njtech.edu.cn/)
+- 🔭 I’m currently study in [Tianjin University](https://www.tju.edu.cn/)
 
 - 🌱 I’m currently learning **Pytorch**
 
